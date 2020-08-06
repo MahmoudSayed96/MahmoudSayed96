@@ -11,7 +11,6 @@ GIT&Github.</strong>
   <a href="https://www.facebook.com/MahmoudSayedHassan96" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
    <a href="https://www.twitter.com/MahmoudSayed_96" target="_blank"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m full-stack developer in <a href="http://orangestudio.com/" target="_blank">OrangeStudio</a>
 - 🌱 I’m currently learning Wordpress/VueJS
