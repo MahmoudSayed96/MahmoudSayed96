@@ -31,4 +31,4 @@ GIT&Github.</strong>
 &nbsp; <img src="imgs/vscode.png" width="30px" height="30px" alt="vs code" title="VsCode">
 &nbsp; <img src="imgs/git.png" width="30px" height="30px" alt="git" title="Git">
 &nbsp; <img src="imgs/npm.png" width="30px" height="30px" alt="npm" title="npm">
-&nbsp; <img src="" width="30px" height="30px" alt="">
+
