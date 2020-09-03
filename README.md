@@ -18,18 +18,16 @@ GIT&Github.</strong>
 
 ### Languages & Tools:
 
-&nbsp; <img src="imgs/laravel.png" width="30px" height="30px" alt="laravel" title="Laravel">
-&nbsp; <img src="imgs/drupal.png" width="30px" height="30px" alt="drupal" title="Drupal">
-&nbsp; <img src="imgs/html.png" width="30px" height="30px" alt="html" title="HTML">
-&nbsp; <img src="imgs/css.png" width="30px" height="30px" alt="css" title="CSS">
-&nbsp; <img src="imgs/js.png" width="30px" height="30px" alt="js" title="JavaScript">
-&nbsp; <img src="imgs/angular.png" width="30px" height="30px" alt="angular" title="angular">
-&nbsp; <img src="imgs/bootstrap.png" width="30px" height="30px" alt="bootstrap" title="Bootstrap">
-&nbsp; <img src="imgs/sass.png" width="30px" height="30px" alt="sass" title="Sass">
-&nbsp; <img src="imgs/pug.png" width="30px" height="30px" alt="pugjs" title="PugJs">
-&nbsp; <img src="imgs/gulp.png" width="30px" height="30px" alt="gulp" title="Gulp">
-&nbsp; <img src="imgs/vscode.png" width="30px" height="30px" alt="vs code" title="VsCode">
-&nbsp; <img src="imgs/git.png" width="30px" height="30px" alt="git" title="Git">
-&nbsp; <img src="imgs/npm.png" width="30px" height="30px" alt="npm" title="npm">
-&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/html.png" width="30px" height="30px" alt="npm" title="npm">
-
+&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/laravel.png" width="30px" height="30px" alt="laravel" title="Laravel">
+&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/drupal.png" width="30px" height="30px" alt="drupal" title="Drupal">
+&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/html.png" width="30px" height="30px" alt="html" title="HTML">
+&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/css.png" width="30px" height="30px" alt="css" title="CSS">
+&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/js.png" width="30px" height="30px" alt="js" title="JavaScript">
+&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/angular.png" width="30px" height="30px" alt="angular" title="angular">
+&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/bootstrap.png" width="30px" height="30px" alt="bootstrap" title="Bootstrap">
+&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/sass.png" width="30px" height="30px" alt="sass" title="Sass">
+&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/pug.png" width="30px" height="30px" alt="pugjs" title="PugJs">
+&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/gulp.png" width="30px" height="30px" alt="gulp" title="Gulp">
+&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/vscode.png" width="30px" height="30px" alt="vs code" title="VsCode">
+&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/git.png" width="30px" height="30px" alt="git" title="Git">
+&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/npm.png" width="30px" height="30px" alt="npm" title="npm">
