@@ -14,7 +14,7 @@ GIT&Github.</strong>
 - 🔭 I’m full-stack developer in <a href="https://dmsegypt.net/" target="_blank">DMSEgypt</a>
 - 🌱 I’m currently learning Wordpress/VueJS
 - 👯 I’m looking to work on international software company
-- 💬 Ask me about anything in Laravel/JavaScript
+- 💬 Ask me about anything in Laravel/Drupal/JavaScript
 
 ### Languages & Tools:
 
