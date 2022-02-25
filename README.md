@@ -12,9 +12,9 @@ GIT&Github.</strong>
 <a href="https://www.twitter.com/MahmoudSayed_96" target="_blank"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
 
 - 🔭 I’m full-stack developer in <a href="https://dmsegypt.net/" target="_blank">DMSEgypt</a>
-- 🌱 I’m currently learning Wordpress/VueJS
+- 🌱 I’m currently learning Wordpress/Symfony
 - 👯 I’m looking to work on international software company
-- 💬 Ask me about anything in Laravel/Drupal/JavaScript
+- 💬 Ask me about anything in Laravel/Drupal/PHP/JavaScript
 
 ### Languages & Tools:
 
