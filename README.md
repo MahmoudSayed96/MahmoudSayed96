@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 I am <strong>Mahmoud Sayed</strong>, <i>Full-Stack developer</i>. <br>
-who is very skilled in developing the following:<br>
-<strong>PHP,Laravel,Drupal,MySQL,WebApi,Angular,HTML&HTML5, CSS&CSS3, SASS, Bootstrap, Javascript&ES6, JQuery, JSON,
-GIT&Github.</strong>
+I can develop and maintain Websites and Restful applications using PHP, Laravel, MySQL, Drupal, and front-end tools along with different technologies. I can build custom modules and themes using Drupal CMS.
+I can adapt to any work environment and learn any technology. I have always liked working with a technically formidable team.
 
 ### Contact:
 
