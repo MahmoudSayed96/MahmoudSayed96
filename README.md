@@ -1,32 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mahmoud Sayed</h1>
+<h3 align="center">I am a Full-Stack Developer. I can develop and maintain Websites and Restful applications using PHP, Laravel, MySQL, Drupal, and front-end tools along with different technologies. I can build custom modules and themes using Drupal CMS. I can adapt to any work environment and learn any technology. I have always liked working with a technically formidable team.</h3>
 
-I am <strong>Mahmoud Sayed</strong>, <i>Full-Stack developer</i>. <br>
-I can develop and maintain Websites and Restful applications using PHP, Laravel, MySQL, Drupal, and front-end tools along with different technologies. I can build custom modules and themes using Drupal CMS.
-I can adapt to any work environment and learn any technology. I have always liked working with a technically formidable team.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudsayed96&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudsayed96" /> </p>
 
-### Contact:
+- 🌱 I’m currently learning **WordPress, Symfony and React Js**
 
-<a href="https://www.linkedin.com/in/mahmoud-sayed-862524147/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.facebook.com/MahmoudSayedHassan96" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.twitter.com/MahmoudSayed_96" target="_blank"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
+- 💬 Ask me about **Drupal, Laravel and PHP**
 
-- 🔭 I’m full-stack developer in <a href="https://dmsegypt.net/" target="_blank">DMSEgypt</a>
-- 🌱 I’m currently learning Wordpress/Symfony
-- 👯 I’m looking to work on international software company
-- 💬 Ask me about anything in Laravel/Drupal/PHP/JavaScript
+- 📫 How to reach me **m.sayedfci@gmail.com**
 
-### Languages & Tools:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/mahmoudsayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mahmoudsayed" height="30" width="40" /></a>
+<a href="https://twitter.com/mahmoudsayed_96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahmoudsayed_96" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahmoud-sayed-862524147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-sayed-862524147" height="30" width="40" /></a>
+</p>
 
-&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/laravel.png" width="30px" height="30px" alt="laravel" title="Laravel">
-&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/drupal.png" width="30px" height="30px" alt="drupal" title="Drupal">
-&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/html.png" width="30px" height="30px" alt="html" title="HTML">
-&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/css.png" width="30px" height="30px" alt="css" title="CSS">
-&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/js.png" width="30px" height="30px" alt="js" title="JavaScript">
-&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/angular.png" width="30px" height="30px" alt="angular" title="angular">
-&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/bootstrap.png" width="30px" height="30px" alt="bootstrap" title="Bootstrap">
-&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/sass.png" width="30px" height="30px" alt="sass" title="Sass">
-&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/pug.png" width="30px" height="30px" alt="pugjs" title="PugJs">
-&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/gulp.png" width="30px" height="30px" alt="gulp" title="Gulp">
-&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/vscode.png" width="30px" height="30px" alt="vs code" title="VsCode">
-&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/git.png" width="30px" height="30px" alt="git" title="Git">
-&nbsp; <img src="https://raw.githubusercontent.com/MahmoudSayed96/MahmoudSayed96/master/imgs/npm.png" width="30px" height="30px" alt="npm" title="npm">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudsayed96&show_icons=true&locale=en" alt="mahmoudsayed96" /></p>
