@@ -16,7 +16,9 @@
 <h3 align="left">Professional Experience:</h3>
 <p align="left">
 <a href="https://www.cloudypedia.com" target="blank" title="cloudypedia.com"><img align="center" src="https://lh5.googleusercontent.com/kcmGvAwdaS425SEL9UZ44G06xVX2W_vr3Vk2YJ5IYkqZcXjflBxq-MVis1ukNohdKHpfZz5asv9MO287f485sydwbqf0ta9YNhNhVFWmlLg2UYeO6kg=w16383" alt="cloudypedia" height="30" width="40" /></a>
+&nbsp;
 <a href="https://dmsegypt.net" target="blank" title="dmsegypt.net"><img align="center" src="https://dmsegypt.net/wp-content/uploads/2018/09/logo-300x131.png" alt="dmsegypt" height="30" width="40" /></a>
+&nbsp;
 <a href="http://orangestudio.com" target="blank" title="orangestudio.com"><img align="center" src="http://orangestudio.com/images/logo.jpg" alt="orangestudio" height="30" width="40" /></a>
 </p>
 
