@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudsayed96&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudsayed96" /> </p>
 
-- 🔭 I’m currently working in [Cloudypedia](https://cloudypedia.com)
+- 🔭 I’m currently working in [EJADA System Ltd](https://www.ejada.com/web/ejada/contacts)
 
 - 🌱 I’m currently learning **Symfony and React Js**
 
@@ -15,6 +15,7 @@
 
 <h3 align="left">Professional Experience:</h3>
 <p align="left">
+<a href="https://www.ejada.com/web/ejada/contacts" target="blank" title="ejada.com"><img align="center" src="https://www.ejada.com/o/ejada-new-theme/images/general/logo-dark.png" alt="EJADA System Ltd" height="30" width="40" /></a>
 <a href="https://www.cloudypedia.com" target="blank" title="cloudypedia.com"><img align="center" src="https://lh5.googleusercontent.com/kcmGvAwdaS425SEL9UZ44G06xVX2W_vr3Vk2YJ5IYkqZcXjflBxq-MVis1ukNohdKHpfZz5asv9MO287f485sydwbqf0ta9YNhNhVFWmlLg2UYeO6kg=w16383" alt="cloudypedia" height="30" width="40" /></a>
 &nbsp;
 <a href="https://dmsegypt.net" target="blank" title="dmsegypt.net"><img align="center" src="https://dmsegypt.net/wp-content/uploads/2018/09/logo-300x131.png" alt="dmsegypt" height="30" width="40" /></a>
